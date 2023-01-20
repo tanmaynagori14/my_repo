@@ -1,0 +1,8 @@
+1.github account 
+2.empty repository
+3.on cmd prompt
+	gitremote.........
+	git config --global user.name "tanmaynagori14"
+	git config --global user.email "tanmaynagori14@gmail.com"
+4.git push -u origin master
+
